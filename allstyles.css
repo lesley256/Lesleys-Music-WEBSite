@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: rgb(247, 9, 148);
+    text-decoration: wavy;
+}
+
+body{
+    background-image: url("flower.jpg");
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(20, 8, 92);
+}
